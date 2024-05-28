@@ -25,3 +25,11 @@ Stores vectorized data for efficient querying. FAISS (Facebook AI Similarity Sea
 
 NLP Directory:
 Contains utilities and scripts related to natural language processing, such as text preprocessing, tokenization, and feature extraction. These are essential for understanding and generating human language in the chatbot.
+
+SCREENSHOTS:
+
+
+![image](https://github.com/mahadkhaliq/medical_chatbot/assets/38165958/e3d5aa50-7da9-4a82-a122-3df2e222597a)
+
+![image](https://github.com/mahadkhaliq/medical_chatbot/assets/38165958/d359939b-1abe-46b9-a321-5ebf6d76162c)
+
